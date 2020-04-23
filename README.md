@@ -14,9 +14,9 @@ The goal of the project is to build an image classifier, which can perform a ser
 
 * Given an input image of either a dog or a person, the application should classify whether it is a dog or a human. In other words, it should calculate the probability that it is a dog.
 
-• If the image is of a dog, the application should classify, which dog breed it belongs to from a number of possible classes. This may be extended to include mixed breed dogs. In a mathematical sense, given an image the CNN should output the probability that the image belongs to a particular breed of dog.
+* If the image is of a dog, the application should classify, which dog breed it belongs to from a number of possible classes. This may be extended to include mixed breed dogs. In a mathematical sense, given an image the CNN should output the probability that the image belongs to a particular breed of dog.
 
-• If the input image was of a human, the CNN should output the dog breed that the human most resembles.
+* If the input image was of a human, the CNN should output the dog breed that the human most resembles.
     
 ## Datasets used
 
