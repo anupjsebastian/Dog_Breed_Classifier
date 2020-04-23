@@ -25,7 +25,7 @@ The datasets used for this project were provided by Udacity. They are linked bel
 1. [Dog Dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip)
 2. [Human Dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip)
 
-I also used a few additional images and these can be found at:
+I also used a few additional images and have included them in test_images.zip and the test_images directory. These were found at:
 
 1. Mona Lisa: http://lookatherbeautifulface.blogspot.com/2010/08/one-of-most-famous-female-faces-in.html       
 2. Albert Einstein: https://www.bbc.com/news/health-23665502
